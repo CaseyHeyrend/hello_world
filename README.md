@@ -2,8 +2,7 @@
 
 I created this project to make sure my development environment is properly set up and ready for building future software. Setting up a simple project from scratch helps me confirm that my editor, terminal, and tools are all working smoothly together.
 
-
-TThis software is a simple command-line program that prints a "Hello World" message to the screen.
+This software is a simple command-line program that prints a "Hello World" message to the screen.
 
 The purpose of this program is to test my local setup—making sure Python works correctly in my terminal and that I can easily track and share my code using Git and GitHub.
 
